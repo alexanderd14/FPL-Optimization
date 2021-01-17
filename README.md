@@ -16,6 +16,6 @@ I am still in the process of predicting scores for the the rest of the season us
 # Optimization
 Once I have good and viable predictions I will run them through my optimization function which finds the maximum number of point I can recieve with the dollar amount alotted in FPL. The code is annoted step by step. This is the output without modelled predictions for team optimization of the players who have scored the most so far this season. 
 
-![alt text](https://github.com/alexanderd14/FPL-Optimization/blob/main/fpl.png)
+![alt text](https://github.com/alexanderd14/FPL-Optimization/blob/main/fpl2.png)
 
 The linear optimization also accounts for the formation desired by the user.
