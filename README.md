@@ -3,11 +3,11 @@ I have always followed football, but I have never been much of a fan of fantasy 
 
 The prospect of having a chance at winning lead me to an FPL API (https://fantasy.premierleague.com/api/bootstrap-static) and ecouraged me to explore the data and write a bit of code.
 
-#EDA
+# EDA
 After creating my dataframes and cleaning up the data, I decided to draw out some basic patterns. For example looking at the relationship between the in-game price of a player and their total point production in the season so far.
 
 
-#Modeling 
+# Modeling 
 
 
-#Optimization
+# Optimization
