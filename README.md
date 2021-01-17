@@ -5,7 +5,7 @@ The prospect of having a chance at winning lead me to an FPL API (https://fantas
 
 # EDA
 After creating my dataframes and cleaning up the data, I decided to draw out some basic patterns. For example looking at the relationship between the in-game price of a player and their total point production in the season so far.
-![alt text](https://github.com/alexander14/FPL-Optimization/blob/master/Screen Shot 2021-01-16 at 7.57.01 PM.png)
+![alt text](https://github.com/alexander14/FPL-Optimization/blob/main/fpl)
 
 
 # Modeling 
